@@ -1,0 +1,2 @@
+# Requires: eternal-maybe
+# (Not available on PyPI)
